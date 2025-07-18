@@ -1,4 +1,4 @@
 # 1st-repo
-to test github
+ testing github
 <br>
 name:tony
